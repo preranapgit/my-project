@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+python
+pandas
+plotly
+linear regression
+pyodbc
